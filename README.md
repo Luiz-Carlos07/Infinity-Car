@@ -1,2 +1,2 @@
 # Infinity-Cars
-Repositório destinado a loja de carros, Infinity Car. 
+Repositório destinado a loja de carros, Infinity Cars. 
